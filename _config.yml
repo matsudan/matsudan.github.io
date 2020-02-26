@@ -1,5 +1,5 @@
 title: Home
-author: GitHub User
+author: matsudan
 email: daaamatsun at gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -25,8 +25,11 @@ texture:
   social_links:
     twitter:
     github:  matsudan
+    linkedIn:
+    speakerdeck: matsudan
     rss: rss
- 
+
+  analytics_id:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
