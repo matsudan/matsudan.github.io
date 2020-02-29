@@ -64,7 +64,7 @@ Email: daaamatsun at gmail.com
 
 - Dynamics and heterogeneity of ATP production and consumption in signle C2C12 myotubes;<br>
   __N. Matsuda__, K. Kunida, T. Wada, H. Inoue, D. Hoshino, S. Kuroda,<br>
-  _第54回日本生物物理学会年会_, 2016, Miyagi, Japan
+  _第54回日本生物物理学会年会_, 2016, Ibaraki, Japan
 <br>
 <br>
 
